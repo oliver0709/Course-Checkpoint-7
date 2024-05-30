@@ -15,5 +15,5 @@ function evaluarNumeros(a, b, c, d) {
 }
 
 
-evaluarNumeros(2, 3, 4, 5);  // Output: ¡El número es menor que 50!
-evaluarNumeros(5, 10, 4, 2); // Output: ¡El número es mayor que 50!
+evaluarNumeros(2, 3, 4, 5);  // El resultado seria: ¡El número es menor que 50!
+evaluarNumeros(5, 10, 4, 2); // El resultado seria: ¡El número es mayor que 50!
